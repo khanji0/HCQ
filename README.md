@@ -1,2 +1,3 @@
 ## Ds 320 Project
-### Project is under development
+
+### The Project is under development
